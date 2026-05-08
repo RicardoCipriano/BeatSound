@@ -1,0 +1,17 @@
+customtkinter>=5.2.0
+CTkTable>=1.0.0
+CTkMenuBar>=0.8
+CTkToolTip>=0.8
+Pillow>=10.0.0
+matplotlib>=3.7.0
+requests>=2.31.0
+mutagen>=1.46.0
+pygame>=2.5.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+python-dotenv>=1.0.0
+yt-dlp
+# shazamio # Requer Visual Studio Build Tools (C++) para compilar no Windows
+
+sounddevice
+soundfile
